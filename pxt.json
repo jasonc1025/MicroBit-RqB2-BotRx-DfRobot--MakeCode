@@ -4,7 +4,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "joystickbit": "github:tinkertanker/pxt-joystickbit#6843206a6b88d541d1bbd62bf182db2b2d36bdf2",
+        "motor": "github:dfrobot/pxt-motor#dbd0aa1f999cc925785006df8ee6581307ec3140"
     },
     "files": [
         "README.md",
@@ -14,5 +16,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
